@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\LayoutsMultiplos\\LayoutsMultiplos\\LayoutsMultiplos.csproj": {}
+    "C:\\Projects\\C#\\LayoutsMultiplos\\LayoutsMultiplos\\LayoutsMultiplos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\LayoutsMultiplos\\LayoutsMultiplos\\LayoutsMultiplos.csproj": {
+    "C:\\Projects\\C#\\LayoutsMultiplos\\LayoutsMultiplos\\LayoutsMultiplos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\LayoutsMultiplos\\LayoutsMultiplos\\LayoutsMultiplos.csproj",
+        "projectUniqueName": "C:\\Projects\\C#\\LayoutsMultiplos\\LayoutsMultiplos\\LayoutsMultiplos.csproj",
         "projectName": "LayoutsMultiplos",
-        "projectPath": "C:\\Users\\User\\source\\repos\\LayoutsMultiplos\\LayoutsMultiplos\\LayoutsMultiplos.csproj",
+        "projectPath": "C:\\Projects\\C#\\LayoutsMultiplos\\LayoutsMultiplos\\LayoutsMultiplos.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\LayoutsMultiplos\\LayoutsMultiplos\\obj\\",
+        "outputPath": "C:\\Projects\\C#\\LayoutsMultiplos\\LayoutsMultiplos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
